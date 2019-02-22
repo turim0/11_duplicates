@@ -8,8 +8,10 @@ Example of script launch on Linux, Python 3.5:
 
 ```bash
 
-$ python duplicates.py /home/tour_rv/folder  # possibly requires call of python3 executive instead of just python
-Dublicates rere.txt founded at ['/home/tour_rv/folder/rere.txt', '/home/tour_rv/folder/folder/folder/fold/rere.txt']
+$ python duplicates.py /home/user/folder  # possibly requires call of python3 executive instead of just python
+Founded dublicates rere.txt: 0 bytes
+/home/tour_rv/folder/rere.txt
+/home/tour_rv/folder/folder/folder/fold/rere.txt
 ```
 
 # Project Goals
